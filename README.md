@@ -3,6 +3,9 @@
 FACETRACK is a smart, real-time face recognition-based attendance system built using Python, Streamlit, OpenCV, and dlib. It includes an admin dashboard, face registration, live tracking, anti-spoofing measures, and detailed attendance logging.
 
 ---
+login
+#username: admin
+#password: abc12345
 
 ## 🚀 Features
 
